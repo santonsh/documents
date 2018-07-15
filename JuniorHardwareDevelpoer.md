@@ -5,7 +5,7 @@
 Bright Innovations is looking for Embedded oriented software engineer with electrical engineering background to join our growing company. The developer will work in a multi-disciplinary team developing state of the art IoT platform. The applicant will be responsible for end-to-end design of IoT device through stages of definition, parts selection, electrical schematics, board design and production and testing procedures (Same stages applies to embedded software design). The applicant is expected to be target oriented, be able to take responsibility for his part of the product, be able to produce reliable, structured, tested, well documented code and product.      
 
 ## Common Engineering Requirements 
-The applicant should have the next abilites to match the position in Bright Innovations 
+The applicant should have the next abilities to match the position in Bright Innovations 
   - Technical English fluency and ability to read **a lot**
   - Strong ability to learn and self educate 
   - Work planning and administration capability
