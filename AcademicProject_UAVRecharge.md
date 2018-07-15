@@ -12,5 +12,5 @@ The project can be divided into smaller subprojects some of which can be develop
     - **#CAD, #RequirementsDesign**
   - Charging station electrical design. The charging mechanisms for LiPo battaries should be implemented in hardware and embedded software. The *on-the-fly* LiPo battery switch controll should is optional to be implemented.  **Board design** and **Embedded programming** year long project
     - **#CircuitDesign, #BoardDesign, #Embedded**
-  - Possible m2m communication project between a platform and UAV. **TBD**
+  - Possible m2m communication project for communication between a platform and UAV. **TBD**
 
