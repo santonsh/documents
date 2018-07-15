@@ -1,23 +1,16 @@
 [![Bright](https://static1.squarespace.com/static/593f6782e4fcb5c45861fe68/t/5a56e19753450ad102564dd1/1530425272677/?format=1500w)](https://www.brightinnovationsco.com/)
 
-# Junior Hardware/Embedded Developer
-## Position description
-Bright Innovations is looking for Embedded oriented software engineer with electrical engineering background to join our growing company. The developer will work in a multi-disciplinary team developing state of the art IoT platform. The applicant will be responsible for end-to-end design of IoT device through stages of definition, parts selection, electrical schematics, board design and production and testing procedures (Same stages applies to embedded software design). The applicant is expected to be target oriented, be able to take responsibility for his part of the product, be able to produce reliable, structured, tested, well documented code and product.      
+# Student develpment project. UAV Recharge Station 
+## Project description
+In the last few years various compact unmanned aireal vehicles (UAV) was introduced and adopted in various industries around the globe. Bright Innovations belives that UAVs have a promising future in cities of tomorrow. Bright Innovations intends to develop a UAV charging station as a proof of concept (POC) of UAV usage within its smart city platform. The project is multidisciplinary and can consist of several parts which can be implemented in whole, partially or neither. As a base for the project open source hardware and software platforms will be used. The actual UAV construction is not intended and probabaly ready made quadcopter of choise will be used.
 
-## Common Engineering Requirements 
-The applicant should have the next abilities to match the position in Bright Innovations 
-  - Technical English fluency and ability to read **a lot**
-  - Strong ability to learn and self educate 
-  - Work planning and administration capability
-  - Strong team work capabilities
-  - Some portfolio or example of projects done - **Advantage**
-  - Version control software experience - **Advantage**
-
-## Position Specific Requirements 
-  - C/C++
-  - Electrical engineering background
-  - Embedded computer architecture understanding
-  - Embedded/Arduino programming experience - **Advantage**
-  - Board design/production experience - **Advantage**
-  - Electrical engineering experience - **Advantage**
+## Project sub-projects
+The project can be divided into smaller subprojects some of which can be developed as a uni-semestrial or bi-semestrial student project in acdemia.    
+  - Landing algorithm development. The UAV should be able to land on marked or unmarked charging station. For this charging station geometry should be recognized and UAV should attach to it in a well controlled fation. Combined **Control Systems** and **Computer Vision** year long project 
+    - **#ControlSystems, #CV, #OpenCV, #FlightControl #Embedded**
+  - Charging station mechanical design. The mechanical design will deal with designing the landing pad as well as possible mating components/base of the UAV. Various electrical considerations should be taken into account such as optimal wiring position, contact pads (if relevant), LiPo battery hot switch mechanism. **Mechanical Engineering** half a year long project
+    - **#CAD, #RequirementsDesign**
+  - Charging station electrical design. The charging mechanisms for LiPo battaries should be implemented in hardware and embedded software. The *on-the-fly* LiPo battery switch controll should is optional to be implemented.  **Board design** and **Embedded programming** year long project
+    - **#CircuitDesign, #BoardDesign, #Embedded**
+  - Possible m2m communication project between a platform and UAV. **TBD**
 
