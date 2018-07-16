@@ -3,8 +3,8 @@
 
 # Student research project. Hardware accelerated machine learning inference 
 ## Project description
-Various machine learning aproaches has been around for quite a while now, new names and algorithms riseing every year. Last years however are special for a number of reasons. First the data to be processed getting exponentially bigger, second AI and machne learning acceleration hardware was introduced and being improved, third the adoption of machine learning and simple AI is spreading fast to various areas. 
-One of interest areas of Bright Innovations is a edge processing. What is edge processing? Edge processing means that date is being analyzed *on-the-fly* at its very source. This has 2 main advantages:
+Various machine learning approaches has been around for quite a while now, new names and algorithms rising every year. Last years however are special for a number of reasons. First the data to be processed getting exponentially bigger, second AI and machine learning acceleration hardware was introduced and being improved, third the adoption of machine learning and simple AI is spreading fast to various areas. 
+One of interest areas of Bright Innovations is a edge processing. What is edge processing? Edge processing means that data is being analyzed *on-the-fly* at its very source. This has two main advantages:
 - Real time results
 - Bandwidth bottle neck resolvement
 
@@ -14,21 +14,22 @@ Bright Innovation is looking to experiment with various edge processing hardware
 
 ## Project targets
 The project can be divided into smaller tasks which than can be tackled by student    
-  - Ramp up. Learning and understarnding intended applications of Intel Movidius. Completing a couple of SDK tutorials. 
-  - Desiding on computer vision usecase to be implemented in the project. For example specific situation detection (fight, eletrical bycicle riding on the sidewalk, etc)
+  - Ramp up. Learning and understanding intended applications of Intel Movidius. Completing a couple of SDK tutorials. 
+  - Deciding on computer vision usecase to be implemented in the project. For example specific situation detection (fight, electrical bicycle riding on the sidewalk, etc)
   - Data gathering for training. Though looks simple this stage can be quite challenging 
   - Finding best model for chosen usecase. This will be rather done programatically with various "evolutionary" algorithms.
   - Training the model (already included in the previous task)
   - Implementing the edge inference with Movidius
-  - Resulrts evaluation and conclution
+  - Results evaluation and conclusion
   - **Bonus** - building simple framework to auto re-train the system on new inputs which come from previous model inference
 
 ## Requirements
 - The project is intended to be half year length
-- The students are expected to be able to organize their work and keep pace with set milestones 
+- The students are expected to be able to organize their work and keep pace with set milestones
+- The supervision will be high-level and technically specific assistance will be provided on demand. Micromanagement is not to be expected 
 - The students are expected to have above average understanding of machine learning
 - Machine learning course is a pre-request
-- The project is considered rather challenging and effort consuming. Applicants shoud consider it when applying
+- The project is considered rather challenging and effort consuming. Applicants should consider it when applying
 
 
 ## #CV, #DeepLearning, #HardwareAcceleration, #System, #Project, #Research
