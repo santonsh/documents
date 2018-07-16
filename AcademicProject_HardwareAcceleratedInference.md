@@ -6,7 +6,7 @@
 Various machine learning approaches has been around for quite a while now, new names and algorithms rising every year. Last years however are special for a number of reasons. First the data to be processed getting exponentially bigger, second AI and machine learning acceleration hardware was introduced and being improved, third the adoption of machine learning and simple AI is spreading fast to various areas. 
 One of interest areas of Bright Innovations is a edge processing. What is edge processing? Edge processing means that data is being analyzed *on-the-fly* at its very source. This has two main advantages:
 - Real time results
-- Bandwidth bottle neck resolvement
+- Bandwidth bottle neck avoidance
 
 One of the examples of edge processing are smart CCTV cameras analyzing street scene, counting people, identifying people all this by potentially saving some amount of connectivity traffic. Another example may be reliability and fault detection system on passanger airplane engine analyzing huge amounts of data from hundreds of sensors in real time to insure reliability and minimal fault detection delay.    
 Bright Innovation is looking to experiment with various edge processing hardware technologies. Between them Intel Movidius - a hardware platform for edge inference. The idea is that computation expensive neural network training is done outside on an appropriate hardware but then inference is done on Movidius SoC right on the edge using pretrained model. The edge can be for example a mobile phone and tha data can be a video stream from the camera. This way inference dedicated hardware is used to optimize deep learning and promote its usage on even smallest, low power devices. 
