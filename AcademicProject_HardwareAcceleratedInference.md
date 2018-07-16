@@ -28,3 +28,4 @@ The project can be divided into smaller tasks which than can be tackled by stude
 - The students are expected to be able to organize their work and keep pace with set milestones 
 - The students are expected to have above average understanding of machine learning
 - Machine learning course is a pre-request
+- The project is considered rather challenging and effort consuming. Applicants shoud consider it when applying
